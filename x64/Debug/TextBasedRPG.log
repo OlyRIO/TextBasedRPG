@@ -1,0 +1,11 @@
+﻿  Enemy.cpp
+  funkcije.cpp
+C:\Users\mihai\Desktop\TextBasedRPG\funkcije.cpp(177,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Player.cpp
+  Room.cpp
+  Warrior.cpp
+C:\Users\mihai\Desktop\TextBasedRPG\Warrior.cpp(55,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Wizard.cpp
+  Generating Code...
+  TextBasedRPG.vcxproj -> D:\Faks\TextBasedRPG\x64\Debug\TextBasedRPG.exe
